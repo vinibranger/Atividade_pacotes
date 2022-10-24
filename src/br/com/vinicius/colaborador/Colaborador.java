@@ -5,7 +5,9 @@ import br.com.vinicius.folhadepagamento.FolhaPagamento;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Colaborador {
+public class
+
+Colaborador {
 
     String nome;
     String cpf;
